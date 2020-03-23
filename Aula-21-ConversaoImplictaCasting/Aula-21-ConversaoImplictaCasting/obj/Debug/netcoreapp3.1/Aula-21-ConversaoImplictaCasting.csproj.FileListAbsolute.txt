@@ -1,0 +1,10 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\bin\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\obj\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\obj\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\obj\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting\obj\Debug\netcoreapp3.1\Aula-21-ConversaoImplictaCasting.pdb

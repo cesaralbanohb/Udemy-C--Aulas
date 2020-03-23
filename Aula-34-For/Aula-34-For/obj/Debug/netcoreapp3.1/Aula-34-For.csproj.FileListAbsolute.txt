@@ -1,0 +1,10 @@
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.exe
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.deps.json
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.runtimeconfig.json
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.runtimeconfig.dev.json
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.dll
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\bin\Debug\netcoreapp3.1\Aula-34-For.pdb
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\obj\Debug\netcoreapp3.1\Aula-34-For.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\obj\Debug\netcoreapp3.1\Aula-34-For.AssemblyInfo.cs
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\obj\Debug\netcoreapp3.1\Aula-34-For.dll
+C:\Users\cesar.albano\source\repos\Aula-34-For\Aula-34-For\obj\Debug\netcoreapp3.1\Aula-34-For.pdb

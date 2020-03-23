@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio-Triangulos-ObjRef/1.0.0": {
+        "runtime": {
+          "Exercicio-Triangulos-ObjRef.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio-Triangulos-ObjRef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

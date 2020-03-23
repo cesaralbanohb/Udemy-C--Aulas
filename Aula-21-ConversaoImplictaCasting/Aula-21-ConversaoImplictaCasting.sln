@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-21-ConversaoImplictaCasting", "Aula-21-ConversaoImplictaCasting\Aula-21-ConversaoImplictaCasting.csproj", "{9F764C6E-F1CE-4495-8995-F2E033B39D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F764C6E-F1CE-4495-8995-F2E033B39D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F764C6E-F1CE-4495-8995-F2E033B39D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F764C6E-F1CE-4495-8995-F2E033B39D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F764C6E-F1CE-4495-8995-F2E033B39D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A69EF9-DD9A-49DB-9536-B835E0DFFF05}
+	EndGlobalSection
+EndGlobal

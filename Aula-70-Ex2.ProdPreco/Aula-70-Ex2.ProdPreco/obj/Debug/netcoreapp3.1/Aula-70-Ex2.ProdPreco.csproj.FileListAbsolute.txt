@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\bin\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\obj\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\obj\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\obj\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\obj\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex2.ProdPreco\Aula-70-Ex2.ProdPreco\obj\Debug\netcoreapp3.1\Aula-70-Ex2.ProdPreco.pdb

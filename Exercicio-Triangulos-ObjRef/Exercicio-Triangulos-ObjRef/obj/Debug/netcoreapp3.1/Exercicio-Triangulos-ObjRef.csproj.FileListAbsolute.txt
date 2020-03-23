@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\bin\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\obj\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\obj\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\obj\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\obj\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Exercicio-Triangulos-ObjRef\Exercicio-Triangulos-ObjRef\obj\Debug\netcoreapp3.1\Exercicio-Triangulos-ObjRef.pdb

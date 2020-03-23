@@ -1,0 +1,10 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-OperadoresDeAtribuicao\Aula-OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula-OperadoresDeAtribuicao.pdb

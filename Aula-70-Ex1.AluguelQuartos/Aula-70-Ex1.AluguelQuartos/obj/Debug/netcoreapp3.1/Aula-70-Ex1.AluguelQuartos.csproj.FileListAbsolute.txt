@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\bin\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\obj\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\obj\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\obj\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\obj\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-70-Ex1.AluguelQuartos\Aula-70-Ex1.AluguelQuartos\obj\Debug\netcoreapp3.1\Aula-70-Ex1.AluguelQuartos.pdb

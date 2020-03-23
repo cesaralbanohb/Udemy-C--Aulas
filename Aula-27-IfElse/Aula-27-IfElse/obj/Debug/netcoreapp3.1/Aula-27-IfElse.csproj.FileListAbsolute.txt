@@ -1,0 +1,22 @@
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.exe
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.deps.json
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.runtimeconfig.json
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.runtimeconfig.dev.json
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.dll
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.pdb
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.csprojAssemblyReference.cache
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.AssemblyInfo.cs
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.dll
+C:\Users\cesar.albano\source\repos\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\bin\Debug\netcoreapp3.1\Aula-27-IfElse.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\Aula-27-IfElse\Aula-27-IfElse\obj\Debug\netcoreapp3.1\Aula-27-IfElse.pdb

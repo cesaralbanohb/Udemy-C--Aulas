@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.exe
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.deps.json
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.runtimeconfig.json
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.runtimeconfig.dev.json
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.dll
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\bin\Debug\netcoreapp3.1\Aula-30-Funcoes.pdb
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\obj\Debug\netcoreapp3.1\Aula-30-Funcoes.csprojAssemblyReference.cache
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\obj\Debug\netcoreapp3.1\Aula-30-Funcoes.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\obj\Debug\netcoreapp3.1\Aula-30-Funcoes.AssemblyInfo.cs
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\obj\Debug\netcoreapp3.1\Aula-30-Funcoes.dll
+C:\Users\cesar.albano\source\repos\Aula-30-Funcoes\Aula-30-Funcoes\obj\Debug\netcoreapp3.1\Aula-30-Funcoes.pdb

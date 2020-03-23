@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.exe
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.deps.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\bin\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.pdb
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\obj\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\obj\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\obj\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\obj\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.dll
+C:\Users\cesar.albano\Desktop\CURSO DE PROGRAMAÇÃO\AULAS\Aula-69-Ex1.Vetor\Aula-69-Ex1.Vetor\obj\Debug\netcoreapp3.1\Aula-69-Ex1.Vetor.pdb

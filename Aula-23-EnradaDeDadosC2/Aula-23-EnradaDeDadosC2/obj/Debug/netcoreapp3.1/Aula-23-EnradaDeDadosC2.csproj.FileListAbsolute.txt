@@ -1,0 +1,10 @@
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\obj\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\obj\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.AssemblyInfo.cs
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.exe
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.deps.json
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.runtimeconfig.json
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.runtimeconfig.dev.json
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.dll
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\bin\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.pdb
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\obj\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.dll
+C:\Users\cesar.albano\source\repos\Aula-23-EnradaDeDadosC2\Aula-23-EnradaDeDadosC2\obj\Debug\netcoreapp3.1\Aula-23-EnradaDeDadosC2.pdb

@@ -1,0 +1,11 @@
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.exe
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.deps.json
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.runtimeconfig.json
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.runtimeconfig.dev.json
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.dll
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\bin\Debug\netcoreapp3.1\Aula-42-Estoque.pdb
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\obj\Debug\netcoreapp3.1\Aula-42-Estoque.csprojAssemblyReference.cache
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\obj\Debug\netcoreapp3.1\Aula-42-Estoque.AssemblyInfoInputs.cache
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\obj\Debug\netcoreapp3.1\Aula-42-Estoque.AssemblyInfo.cs
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\obj\Debug\netcoreapp3.1\Aula-42-Estoque.dll
+C:\Users\cesar.albano\Desktop\Aula-42-Estoque\Aula-42-Estoque\obj\Debug\netcoreapp3.1\Aula-42-Estoque.pdb
